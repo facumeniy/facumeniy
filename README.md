@@ -1,6 +1,10 @@
-### 👋 
-
-<!---
-facumeniy/facumeniy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="">Facundo</a>.<br> I'm a Front End Developer from Argentina.<br><br>#javascript, #react</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
