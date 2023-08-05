@@ -20,7 +20,6 @@ Estudiante de Programación en la UTN Mar del Plata, actualmente aprendiendo sob
 ### 📊 Estadísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facumeniy&show_icons=true&theme=gruvbox)
 #
-
 <details>
   <summary><h3>👨‍💻 Mi camino como programador</h3></summary>
    Me interesé por la programación en 2020, descubrí que la idea de resolver problemas de la vida real con código es lo que me apasiona. Aprendí el lenguaje C en mi primer año de universidad. También completé "The Odin Project", lo que me dió fundamentos sobre el desarrollo web, HTML, CSS, JavaScript, entre otras tecnologías. Algunos de los proyectos que hice se pueden ver en mi perfil.
