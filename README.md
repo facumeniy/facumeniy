@@ -17,3 +17,5 @@ Soy estudiante de Programacion de la UTN Mar del Plata. Empece en la programacio
 <br/>
 
 #
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facumeniy&show_icons=true&theme=gruvbox)
