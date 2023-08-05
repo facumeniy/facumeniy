@@ -18,7 +18,7 @@ Estudiante de Programación en la UTN Mar del Plata, actualmente aprendiendo sob
 
 #
 
-### 🧰 Estadísticas
+### 📊 Estadísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facumeniy&show_icons=true&theme=gruvbox)
 
 #
