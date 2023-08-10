@@ -1,6 +1,6 @@
 # Facundo Meniy
 
-Estudiante de Programación en FR UTN Mar del Plata, actualmente aprendiendo sobre más tecnologias
+Estudiante de Programación en FR UTN Mar del Plata, actualmente aprendiendo sobre más tecnologias.
 
 ---
 
