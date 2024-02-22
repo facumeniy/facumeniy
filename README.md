@@ -19,5 +19,5 @@ Estudiante de Programación en FR UTN Mar del Plata, actualmente aprendiendo sob
 #
 <details>
   <summary><h3>Experiencia</h3></summary>
-   Me interesé por la programación en 2020, descubrí que la idea de resolver problemas de la vida real con código es lo que me apasiona. Aprendí el lenguaje C en mi primer año de universidad. También completé "The Odin Project", lo que me dio fundamentos sobre el desarrollo web, HTML, CSS, JavaScript, entre otras tecnologías. Algunos de los proyectos que hice se pueden ver en mi perfil.
+   Me interesé por la programación en 2020, descubrí que la idea de resolver problemas de la vida real con código es lo que me apasiona. Aprendí el lenguaje C en mi primer año de universidad. También completé "The Odin Project", lo que me dio fundamentos sobre el desarrollo web, HTML, CSS, JavaScript, entre otras tecnologías. Algunos de los proyectos se pueden ver en mi perfil.
 </details>
