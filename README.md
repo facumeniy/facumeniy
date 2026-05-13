@@ -1,6 +1,4 @@
-# Facundo Meniy
-
-Estudiante de Programación en FR UTN Mar del Plata, actualmente aprendiendo sobre más tecnologias.
+Programming student learning about new technologies.
 
 ---
 
@@ -15,9 +13,3 @@ Estudiante de Programación en FR UTN Mar del Plata, actualmente aprendiendo sob
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />       
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <br/>
-
-#
-<details>
-  <summary><h3>Experiencia</h3></summary>
-   Me interesé por la programación en 2020, descubrí que la idea de resolver problemas de la vida real con código es lo que me apasiona. Aprendí el lenguaje C en mi primer año de universidad. También completé "The Odin Project", lo que me dio fundamentos sobre el desarrollo web, HTML, CSS, JavaScript, entre otras tecnologías. Algunos de los proyectos se pueden ver en mi perfil.
-</details>
